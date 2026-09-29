@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "The paper is under review; citation details will be added on publication."
+title: "A faithful and validated implementation of fragmentation-aware HOTA that counts detection-gap fragmentation"
+version: 1.0.0
+date-released: 2026-09-29
+license: GPL-3.0
+repository-code: "https://github.com/Swa-s-tik/Faithful-validated-implementation-of-fragmentation-aware-HOTA-counting-detection-gap-fragmentation"
+type: software
+authors:
+  - name: "Swa-s-tik"
