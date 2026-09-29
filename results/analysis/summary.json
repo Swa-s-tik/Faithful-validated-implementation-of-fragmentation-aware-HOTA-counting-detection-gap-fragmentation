@@ -1,0 +1,108 @@
+{
+ "mot17/DPM/tau_FAHOTA_vs_PT21": [
+  0.8571428571428571,
+  0.6428571428571428,
+  0.9999999999999998
+ ],
+ "mot17/DPM/tau_FAHOTA_vs_HOTA": [
+  0.7857142857142856,
+  0.4999999999999999,
+  0.9285714285714285
+ ],
+ "mot17/FRCNN/tau_FAHOTA_vs_PT21": [
+  0.9285714285714285,
+  0.5714285714285714,
+  0.9285714285714285
+ ],
+ "mot17/FRCNN/tau_FAHOTA_vs_HOTA": [
+  0.9285714285714285,
+  0.5714285714285714,
+  0.9285714285714285
+ ],
+ "mot17/SDP/tau_FAHOTA_vs_PT21": [
+  0.7142857142857142,
+  0.5714285714285714,
+  0.7857142857142856
+ ],
+ "mot17/SDP/tau_FAHOTA_vs_HOTA": [
+  0.7142857142857142,
+  0.5714285714285714,
+  0.7857142857142856
+ ],
+ "mot17/YOLOX/tau_FAHOTA_vs_PT21": [
+  0.3571428571428571,
+  0.21428571428571427,
+  0.7142857142857142
+ ],
+ "mot17/YOLOX/tau_FAHOTA_vs_HOTA": [
+  0.3571428571428571,
+  0.21428571428571427,
+  0.6428571428571428
+ ],
+ "mot17/E2_spearman_FragA_vs_FMpertrack": -0.5410557184750733,
+ "mot17/E2_spearman_FragA_PT21_vs_FMpertrack": -0.30315249266862165,
+ "mot17/E2_spearman_FragA_vs_IDSWpertrack": -0.22711025665909626,
+ "mot17/E2_spearman_FragA_PT21_vs_IDSWpertrack": -0.13509302595460362,
+ "mot17/E2_spearman_FAHOTA_vs_HOTA": 0.9677419354838709,
+ "mot17/E2_spearman_FAHOTA_PT21_vs_HOTA": 0.9996334310850439,
+ "mot17/E1_FragA_FNAonly_equals_FragA_all_outputs": true,
+ "mot17/DPM/E2_kendall_FragA_vs_negFM": 0.6428571428571428,
+ "mot17/DPM/E2_kendall_FragA_vs_negIDSW": 0.4999999999999999,
+ "mot17/DPM/E2_kendall_FragA_PT21_vs_negIDSW": 0.4999999999999999,
+ "mot17/DPM/kendall_FA-HOTA_vs_HOTA": 0.7857142857142856,
+ "mot17/DPM/kendall_FA-HOTA_PT21_vs_HOTA": 0.9285714285714285,
+ "mot17/DPM/HOTA_range": 0.06947163111689036,
+ "mot17/FRCNN/E2_kendall_FragA_vs_negFM": 0.7142857142857142,
+ "mot17/FRCNN/E2_kendall_FragA_vs_negIDSW": 0.07142857142857142,
+ "mot17/FRCNN/E2_kendall_FragA_PT21_vs_negIDSW": 0.21428571428571427,
+ "mot17/FRCNN/kendall_FA-HOTA_vs_HOTA": 0.9285714285714285,
+ "mot17/FRCNN/kendall_FA-HOTA_PT21_vs_HOTA": 0.9999999999999998,
+ "mot17/FRCNN/HOTA_range": 0.04463699975196572,
+ "mot17/SDP/E2_kendall_FragA_vs_negFM": 0.7857142857142856,
+ "mot17/SDP/E2_kendall_FragA_vs_negIDSW": 0.3571428571428571,
+ "mot17/SDP/E2_kendall_FragA_PT21_vs_negIDSW": 0.2857142857142857,
+ "mot17/SDP/kendall_FA-HOTA_vs_HOTA": 0.7142857142857142,
+ "mot17/SDP/kendall_FA-HOTA_PT21_vs_HOTA": 0.9999999999999998,
+ "mot17/SDP/HOTA_range": 0.07226877407902554,
+ "mot17/YOLOX/E2_kendall_FragA_vs_negFM": 0.7142857142857142,
+ "mot17/YOLOX/E2_kendall_FragA_vs_negIDSW": 0.42857142857142855,
+ "mot17/YOLOX/E2_kendall_FragA_PT21_vs_negIDSW": 0.5714285714285714,
+ "mot17/YOLOX/kendall_FA-HOTA_vs_HOTA": 0.3571428571428571,
+ "mot17/YOLOX/kendall_FA-HOTA_PT21_vs_HOTA": 0.9999999999999998,
+ "mot17/YOLOX/HOTA_range": 0.04846621510656057,
+ "dancetrack/YOLOX/tau_FAHOTA_vs_PT21": [
+  0.9285714285714285,
+  0.5714285714285714,
+  0.9999999999999998
+ ],
+ "dancetrack/YOLOX/tau_FAHOTA_vs_HOTA": [
+  0.42857142857142855,
+  0.42857142857142855,
+  0.7857142857142856
+ ],
+ "dancetrack/E2_spearman_FragA_vs_FMpertrack": -0.9285714285714287,
+ "dancetrack/E2_spearman_FragA_PT21_vs_FMpertrack": -0.7142857142857144,
+ "dancetrack/E2_spearman_FragA_vs_IDSWpertrack": -0.5714285714285715,
+ "dancetrack/E2_spearman_FragA_PT21_vs_IDSWpertrack": -0.9047619047619048,
+ "dancetrack/E2_spearman_FAHOTA_vs_HOTA": 0.6904761904761906,
+ "dancetrack/E2_spearman_FAHOTA_PT21_vs_HOTA": 0.7380952380952381,
+ "dancetrack/E1_FragA_FNAonly_equals_FragA_all_outputs": false,
+ "dancetrack/YOLOX/E2_kendall_FragA_vs_negFM": 0.8571428571428571,
+ "dancetrack/YOLOX/E2_kendall_FragA_vs_negIDSW": 0.3571428571428571,
+ "dancetrack/YOLOX/E2_kendall_FragA_PT21_vs_negIDSW": 0.7857142857142856,
+ "dancetrack/YOLOX/kendall_FA-HOTA_vs_HOTA": 0.42857142857142855,
+ "dancetrack/YOLOX/kendall_FA-HOTA_PT21_vs_HOTA": 0.4999999999999999,
+ "dancetrack/YOLOX/HOTA_range": 0.0891058530720874,
+ "H1_holds": true,
+ "H1_n_outputs": 40,
+ "H2_PT21_n_pairs": 140,
+ "H2_PT21_n_opposite": 17,
+ "H2_PT21_n_sig_reversals": 0,
+ "H2_HOTA_n_pairs": 140,
+ "H2_HOTA_n_opposite": 25,
+ "H2_HOTA_n_sig_reversals": 0,
+ "H2_holds": false,
+ "H3_n_tested": 19,
+ "H3_n_untested": 1,
+ "H3_holds": true
+}

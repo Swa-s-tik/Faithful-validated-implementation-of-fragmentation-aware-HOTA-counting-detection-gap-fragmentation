@@ -1,0 +1,33 @@
+{
+ "sequences": [
+  "b1c66a42-6f7d68ca",
+  "b1c81faa-3df17267",
+  "b1c81faa-c80764c5",
+  "b1c9c847-3bda4659",
+  "b1ca2e5d-84cf9134"
+ ],
+ "classes": [
+  "pedestrian",
+  "rider",
+  "car",
+  "bus",
+  "truck",
+  "train",
+  "motorcycle",
+  "bicycle"
+ ],
+ "should_classes_combine": true,
+ "status": "raised",
+ "exception": "KeyError: 'FragA'",
+ "traceback": [
+  "    metric.combine_classes_det_averaged(cls_res)",
+  "    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^",
+  "  File \"<package>/refs/code/pt21_hota_HEAD.py\", line 197, in combine_classes_det_averaged",
+  "    res = self._compute_final_fields(res)",
+  "  File \"<package>/refs/code/pt21_hota_HEAD.py\", line 211, in _compute_final_fields",
+  "    res['FA-HOTA'] = np.sqrt(res['DetA'] * np.sqrt(res['AssA'] * res['FragA']))",
+  "                                                                 ~~~^^^^^^^^^",
+  "KeyError: 'FragA'"
+ ],
+ "seconds": 7.4
+}

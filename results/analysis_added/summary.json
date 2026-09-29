@@ -1,0 +1,53 @@
+{
+ "dancetrack/yolo26s/tau_FAHOTA_vs_PT21": [
+  0.7142857142857142,
+  0.5714285714285714,
+  0.8571428571428571
+ ],
+ "dancetrack/yolo26s/tau_FAHOTA_vs_HOTA": [
+  0.7142857142857142,
+  0.5714285714285714,
+  0.8571428571428571
+ ],
+ "dancetrack/yolo26x/tau_FAHOTA_vs_PT21": [
+  0.6428571428571428,
+  0.6428571428571428,
+  0.7857142857142856
+ ],
+ "dancetrack/yolo26x/tau_FAHOTA_vs_HOTA": [
+  0.4999999999999999,
+  0.42857142857142855,
+  0.6428571428571428
+ ],
+ "dancetrack/E2_spearman_FragA_vs_FMpertrack": -0.95,
+ "dancetrack/E2_spearman_FragA_PT21_vs_FMpertrack": -0.4588235294117647,
+ "dancetrack/E2_spearman_FragA_vs_IDSWpertrack": -0.38823529411764707,
+ "dancetrack/E2_spearman_FragA_PT21_vs_IDSWpertrack": -0.8294117647058824,
+ "dancetrack/E2_spearman_FAHOTA_vs_HOTA": 0.8088235294117646,
+ "dancetrack/E2_spearman_FAHOTA_PT21_vs_HOTA": 0.9941176470588234,
+ "dancetrack/E1_FragA_FNAonly_equals_FragA_all_outputs": false,
+ "dancetrack/yolo26s/E2_kendall_FragA_vs_negFM": 0.8571428571428571,
+ "dancetrack/yolo26s/E2_kendall_FragA_vs_negIDSW": 0.42857142857142855,
+ "dancetrack/yolo26s/E2_kendall_FragA_PT21_vs_negIDSW": 0.7142857142857142,
+ "dancetrack/yolo26s/kendall_FA-HOTA_vs_HOTA": 0.7142857142857142,
+ "dancetrack/yolo26s/kendall_FA-HOTA_PT21_vs_HOTA": 0.9999999999999998,
+ "dancetrack/yolo26s/HOTA_range": 0.10215067449933918,
+ "dancetrack/yolo26x/E2_kendall_FragA_vs_negFM": 0.7857142857142856,
+ "dancetrack/yolo26x/E2_kendall_FragA_vs_negIDSW": 0.3571428571428571,
+ "dancetrack/yolo26x/E2_kendall_FragA_PT21_vs_negIDSW": 0.6428571428571428,
+ "dancetrack/yolo26x/kendall_FA-HOTA_vs_HOTA": 0.4999999999999999,
+ "dancetrack/yolo26x/kendall_FA-HOTA_PT21_vs_HOTA": 0.8571428571428571,
+ "dancetrack/yolo26x/HOTA_range": 0.12521101199793278,
+ "H1_holds": true,
+ "H1_n_outputs": 16,
+ "H2_PT21_n_pairs": 56,
+ "H2_PT21_n_opposite": 9,
+ "H2_PT21_n_sig_reversals": 3,
+ "H2_HOTA_n_pairs": 56,
+ "H2_HOTA_n_opposite": 11,
+ "H2_HOTA_n_sig_reversals": 3,
+ "H2_holds": true,
+ "H3_n_tested": 8,
+ "H3_n_untested": 0,
+ "H3_holds": true
+}

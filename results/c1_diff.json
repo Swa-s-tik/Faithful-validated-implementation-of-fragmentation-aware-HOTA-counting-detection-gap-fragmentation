@@ -1,0 +1,95 @@
+{
+ "copy": "repro_final2",
+ "compared": 1760,
+ "identical_bytes": 1757,
+ "equal_without_timings": [
+  "results/pt21_crosscheck/dancetrack.json",
+  "results/pt21_crosscheck/mot17.json",
+  "results/pt21_multiclass.json"
+ ],
+ "differing": [],
+ "missing_in_rerun": [],
+ "extra_in_rerun": [],
+ "by_kind": {
+  "figures": {
+   "compared": 18,
+   "identical": 18
+  },
+  "manuscript": {
+   "compared": 4,
+   "identical": 4
+  },
+  "results/analysis": {
+   "compared": 6,
+   "identical": 6
+  },
+  "results/analysis_B100000": {
+   "compared": 4,
+   "identical": 4
+  },
+  "results/analysis_added": {
+   "compared": 4,
+   "identical": 4
+  },
+  "results/determinism.json": {
+   "compared": 1,
+   "identical": 1
+  },
+  "results/example.json": {
+   "compared": 1,
+   "identical": 1
+  },
+  "results/metrics": {
+   "compared": 40,
+   "identical": 40
+  },
+  "results/metrics_added": {
+   "compared": 16,
+   "identical": 16
+  },
+  "results/metrics_dropout": {
+   "compared": 48,
+   "identical": 48
+  },
+  "results/mutation_check.json": {
+   "compared": 1,
+   "identical": 1
+  },
+  "results/oracle": {
+   "compared": 2,
+   "identical": 2
+  },
+  "results/pixel_convention.json": {
+   "compared": 1,
+   "identical": 1
+  },
+  "results/pt21_crosscheck": {
+   "compared": 2,
+   "identical": 0
+  },
+  "results/pt21_multiclass.json": {
+   "compared": 1,
+   "identical": 0
+  },
+  "results/published": {
+   "compared": 6,
+   "identical": 6
+  },
+  "results/tables": {
+   "compared": 13,
+   "identical": 13
+  },
+  "results/tracks": {
+   "compared": 424,
+   "identical": 424
+  },
+  "results/tracks_added": {
+   "compared": 400,
+   "identical": 400
+  },
+  "results/tracks_dropout": {
+   "compared": 768,
+   "identical": 768
+  }
+ }
+}

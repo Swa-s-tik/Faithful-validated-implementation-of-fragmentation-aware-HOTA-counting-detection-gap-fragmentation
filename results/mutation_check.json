@@ -1,0 +1,34 @@
+{
+ "A_short": {
+  "random_sequences": 300,
+  "cases": 5700,
+  "sequences_with_tp": 294,
+  "sequences_where_faithful_below_pt21": 252,
+  "mutants_caught": {
+   "pt21_rule": 3596,
+   "fna_only": 1581,
+   "fpa_only": 1634,
+   "window_lower_inclusive": 3232,
+   "window_skip_first": 2825,
+   "alpha_strict": 0,
+   "sort_time_first": 2024,
+   "den_without_overlap": 5320
+  }
+ },
+ "B_long_ties": {
+  "random_sequences": 100,
+  "cases": 1900,
+  "sequences_with_tp": 100,
+  "sequences_where_faithful_below_pt21": 100,
+  "mutants_caught": {
+   "pt21_rule": 1863,
+   "fna_only": 1331,
+   "fpa_only": 1384,
+   "window_lower_inclusive": 1647,
+   "window_skip_first": 1554,
+   "alpha_strict": 1273,
+   "sort_time_first": 910,
+   "den_without_overlap": 1898
+  }
+ }
+}
